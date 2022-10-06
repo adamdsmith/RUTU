@@ -1,0 +1,19 @@
+band_num,lat,lon,rdate,source,motusTagID,marker,age,bdate,dtime,notes
+126202117,32.029,-80.851,9/25/2018,BBL,28481,DK GRN: LYE,ad,5/24/2018,0.339493498,Makes sense with nanotag data - resighted on soutbound migration
+126202117,32.023,-80.843,9/16/2018,BBL,28481,DK GRN: LYE,ad,5/24/2018,0.314852841,Makes sense with nanotag data - resighted on soutbound migration
+126204674,27.861,-80.451,10/27/2019,BBL,34141,LIME: =YN,ad,5/22/2019,0.432580424,"Same bird had a likely-false tower detection at Mackay Island NWR, NC the day after this resight all the way in FL. Assuming that detection is indeed false, this resight is completely plausible - on soutbound mig."
+126202117,39.101,-74.896,5/19/2017,bandedbird.org,28481,DK GRN: LYE,ad,5/24/2018,-1.013004791,INSPECT - resighted a whole year before  bird was banded
+126204653,39.147,-74.885,5/18/2017,bandedbird.org,28465,DK GRN: NAP,ad,5/22/2018,-1.01026694,
+126202122,39.126,-74.892,5/21/2017,bandedbird.org,28491,DK GRN: LYM,ad,5/24/2018,-1.00752909,
+126204655,38.946,-75.314,5/28/2018,bandedbird.org,28467,DK GRN: NAU,ad,5/22/2018,0.016427105,"INSPECT  - reliable tag detection 5/26/2018 in Great Lakes; if resight 2 days later in DE Bay was accurate, likely would have been picked up by a DE Bay tower"
+126202117,32.027,-80.853,9/15/2018,bandedbird.org,28481,DK GRN: LYE,ad,5/24/2018,0.31211499,Makes sense with nanotag data - resighted on southbound migration
+126204681,39.042,-75.369,5/16/2019,bandedbird.org,33225,LIME: 99=,ad,5/22/2019,-0.016427105,INSPECT - resighted 8 days before  bird was banded
+126204673,38.946,-75.314,5/20/2019,bandedbird.org,34139,LIME: =68,ad,5/22/2019,-0.005475702,INSPECT - resighted 2 days before bird was banded
+126202182,39.042,-75.369,5/21/2019,bandedbird.org,33868,LIME: XH=,ad,5/6/2019,0.041067762,
+126204681,38.881,-75.269,5/26/2019,bandedbird.org,33225,LIME: 99=,ad,5/22/2019,0.010951403,INSPECT - tiny chance this one is possible if bird stopped before long flight north - but was reliably detected by 4 towers in Ohio/Michigan/Ontario on the same day
+126202182,38.946,-75.314,5/26/2019,bandedbird.org,33868,LIME: XH=,ad,5/6/2019,0.054757016,
+126202182,38.946,-75.314,5/29/2019,bandedbird.org,33868,LIME: XH=,ad,5/6/2019,0.062970568,
+126204681,38.946,-75.314,5/30/2019,bandedbird.org,33225,LIME: 99=,ad,5/22/2019,0.021902806,INSPECT - Bird was detected by tower in northern MI 3 days before this resight in DE Bay… so very unlikely resight
+126204689,39.042,-75.369,5/31/2019,bandedbird.org,33238,LIME: =41,ad,5/22/2019,0.024640657,
+126204667,26.291,-77.031,10/26/2019,bandedbird.org,33884,LIME: =67,ad,5/22/2019,0.429842574,
+126202184,12.106,-68.932,8/11/2019,bandedbird.org,33870,LIME: =48,ad,5/21/2019,0.224503765,

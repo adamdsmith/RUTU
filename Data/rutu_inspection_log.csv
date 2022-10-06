@@ -1,0 +1,368 @@
+mfgID,motusTagID,tagDeployID,site_date,runID,antBin,pulseCount,numHits,runLen,longRun,inspectFlag,keep
+364,28461,16194,Pointe Mouillee: 2018-05-26,59387615,N,20,5,3,3,run length of 3,TRUE
+369,28466,16199,D'Estimauville: 2018-05-30,55300244,S,118742,3557,4,1,median freqsd of run > 0.05 kHz,FALSE
+369,28466,16199,D'Estimauville: 2018-05-30,55300407,S,118742,3557,4,2,median freqsd of run > 0.05 kHz,FALSE
+369,28466,16199,Stutchbury: 2018-07-21,58837996,S,1,93,4,1,median freqsd of run > 0.05 kHz,FALSE
+371,28468,16201,Gerdau: 2018-06-01,39612695,E,860,7,7,2,SG: <3 consecutive bursts,TRUE
+374,28471,16204,D'Estimauville: 2018-05-30,55303383,S,182327,5177,4,1,median freqsd of run > 0.05 kHz,FALSE
+376,28473,16206,Brighton: 2018-05-31,41588016,W,369,43,7,3,hit with high freqSD,TRUE
+376,28473,16206,Brighton: 2018-05-31,41588016,W,369,43,7,3,excessive burstSlop,TRUE
+376,28473,16206,Brighton: 2018-05-31,41588017,W,369,43,10,6,excessive burstSlop,TRUE
+376,28473,16206,Brighton: 2018-05-31,41588018,W,369,43,8,4,excessive burstSlop,TRUE
+376,28473,16206,Brighton: 2018-05-31,41588019,W,369,43,14,4,excessive burstSlop,TRUE
+376,28473,16206,Brighton: 2018-05-31,41588020,W,369,43,4,2,median freqsd of run > 0.05 kHz,TRUE
+377,28474,16207,PARC Banding: 2018-06-02,61275914,E,17522,185,63,16,High hourly pulse count,TRUE
+377,28474,16207,PARC Banding: 2018-06-02,61275910,(Missing),4619,264,22,6,hit with high freqSD,TRUE
+377,28474,16207,PARC Banding: 2018-06-02,61275915,N,2529,574,19,7,hit with high freqSD,TRUE
+377,28474,16207,PARC Mt. Laurel: 2018-06-02,59664268,W,548,69,4,2,median freqsd of run > 0.05 kHz,TRUE
+377,28474,16207,PARC Armour: 2018-06-02,59586276,E,709,9,9,4,median freqsd of run > 0.05 kHz,TRUE
+377,28474,16207,Stutchbury: 2018-06-02,58834749,W,2,7,5,1,SG: <3 consecutive bursts,TRUE
+377,28474,16207,Mack Lake: 2018-06-02,61381557,(Missing),NA,9,7,1,Lotek/CTT: <2 consecutive bursts,TRUE
+377,28474,16207,Churchill - Fen: 2018-06-14,54100818,S,14181,73,73,73,High hourly pulse count,TRUE
+379,28476,16209,BPLH: 2018-07-30,46325109,N,311235,1534,4,1,median freqsd of run > 0.05 kHz,FALSE
+379,28476,16209,BPLH: 2018-08-13,46328063,N,6,272,4,1,median freqsd of run > 0.05 kHz,FALSE
+379,28476,16209,High Park: 2018-10-09,38707881,S,64804,368,4,1,median freqsd of run > 0.05 kHz,FALSE
+379,28476,16209,High Park: 2018-11-08,38708429,N,2547,458,4,2,median freqsd of run > 0.05 kHz,FALSE
+334,28481,19547,Werden: 2018-05-26,39475547,E,58640,67,32,26,High hourly pulse count,TRUE
+334,28481,19547,Osborne Tower: 2018-05-26,54086679,S,32495,174,4,1,High hourly pulse count,TRUE
+334,28481,19547,Cambridge_RARE: 2018-05-26,41969653,E,992,171,77,19,median freqsd of run > 0.05 kHz,TRUE
+334,28481,19547,Osborne Tower: 2018-05-26,54086685,S,32495,174,3,3,High hourly pulse count,TRUE
+334,28481,19547,Osborne Tower: 2018-05-26,54086686,S,32495,174,65,19,High hourly pulse count,TRUE
+334,28481,19547,Earl_Rowe_PP: 2018-05-26,42034915,W,16,61,4,2,SG: <3 consecutive bursts,TRUE
+335,28482,19548,Tower Farm: 2018-05-28,57988188,N,8,28,5,1,SG: <3 consecutive bursts,TRUE
+335,28482,19548,Brighton: 2018-05-29,41587992,S,138,19,7,5,excessive burstSlop,TRUE
+336,28483,19549,High Park: 2018-10-09,38707841,S,64804,368,4,1,High hourly pulse count,FALSE
+336,28483,19549,High Park: 2018-11-08,38708436,N,2547,458,4,2,SG: <3 consecutive bursts,FALSE
+337,28484,19550,Kalamazoo Nature Center: 2018-05-29,42008051,E,NA,4,4,2,SG: <3 consecutive bursts,TRUE
+338,28485,19551,SGL 154: 2018-05-26,58005701,N,NA,4,4,2,SG: <3 consecutive bursts,TRUE
+338,28485,19551,Nanticoke: 2018-05-26,50772414,E,21920,131,131,22,High hourly pulse count,TRUE
+338,28485,19551,Binbrook Conservation Area: 2018-05-26,37783280,N,551,98,30,6,hit with high freqSD,TRUE
+338,28485,19551,Flamborough_Quarry: 2018-05-26,41949654,E,65831,50,48,25,High hourly pulse count,TRUE
+338,28485,19551,Earl_Rowe_PP: 2018-05-26,42034922,W,374,62,4,2,SG: <3 consecutive bursts,TRUE
+339,28486,19552,Werden: 2018-05-26,39475548,E,58640,67,35,24,High hourly pulse count,TRUE
+339,28486,19552,Russell Reid PS: 2018-05-26,54620659,W,18,54,5,2,SG: <3 consecutive bursts,TRUE
+339,28486,19552,Cambridge_RARE: 2018-05-26,41969651,S,204,18,8,2,SG: <3 consecutive bursts,TRUE
+339,28486,19552,Cambridge_RARE: 2018-05-26,41969654,S,283,5,5,1,SG: <3 consecutive bursts,TRUE
+339,28486,19552,Osborne Tower: 2018-05-26,54086684,S,32495,174,91,43,High hourly pulse count,TRUE
+339,28486,19552,Sunset Farm: 2018-05-26,42423319,(Missing),7296,4,4,2,SG: <3 consecutive bursts,TRUE
+339,28486,19552,Sunset Farm: 2018-05-26,42423320,W,6212,8,8,2,median freqsd of run > 0.05 kHz,TRUE
+340,28487,19553,Rondeau_Provincial_P: 2018-05-27,37781826,W,363,37,14,3,median freqsd of run > 0.05 kHz,TRUE
+340,28487,19553,Rondeau_Provincial_P: 2018-05-27,37781828,W,363,37,23,7,hit with high freqSD,TRUE
+343,28490,19556,PARC CMNH: 2018-05-31,58004756,W,267,27,27,6,excessive burstSlop,TRUE
+343,28490,19556,Stutchbury: 2018-05-31,58834476,S,27,34,34,7,excessive burstSlop,TRUE
+343,28490,19556,Stutchbury: 2018-05-31,58834478,E,2,21,21,20,excessive burstSlop,TRUE
+343,28490,19556,Stutchbury: 2018-05-31,58834479,N,37,24,24,18,excessive burstSlop,TRUE
+343,28490,19556,Lakeview landfill: 2018-05-31,57469050,E,6723,9,9,7,excessive burstSlop,TRUE
+343,28490,19556,Lakeview landfill: 2018-05-31,57469051,N,6687,28,28,9,excessive burstSlop,TRUE
+343,28490,19556,Long_Point_Tip: 2018-05-31,41941251,S,233,21,21,8,excessive burstSlop,TRUE
+343,28490,19556,Long_Point_Tip: 2018-05-31,41941252,N,302,32,32,7,excessive burstSlop,TRUE
+343,28490,19556,Long_Point_Tip: 2018-05-31,41941250,E,141,26,26,11,excessive burstSlop,TRUE
+343,28490,19556,Werden: 2018-05-31,39475551,S,6,11,11,9,excessive burstSlop,TRUE
+343,28490,19556,Nanticoke: 2018-05-31,50772416,S,19336,19,19,4,High hourly pulse count,TRUE
+343,28490,19556,Old Cut: 2018-05-31,57212875,S,489442,15,15,8,High hourly pulse count,TRUE
+343,28490,19556,Old Cut: 2018-05-31,57212876,N,523797,23,23,18,High hourly pulse count,TRUE
+343,28490,19556,Old Cut: 2018-05-31,57212877,W,592152,12,7,3,High hourly pulse count,TRUE
+343,28490,19556,BSC HQ: 2018-05-31,58186977,N,2627,12,12,2,SG: <3 consecutive bursts,TRUE
+343,28490,19556,Old Cut: 2018-05-31,57212878,W,592152,12,5,3,High hourly pulse count,TRUE
+343,28490,19556,Old Cut: 2018-05-31,57212880,W,447551,5,5,4,High hourly pulse count,TRUE
+343,28490,19556,Old Cut: 2018-05-31,57212883,W,1154,24,18,7,excessive burstSlop,TRUE
+343,28490,19556,BSC HQ: 2018-05-31,58186989,E,1432,101,4,2,SG: <3 consecutive bursts,TRUE
+343,28490,19556,Walsingham Super Tow: 2018-05-31,45188400,E,788,100,100,22,excessive burstSlop,TRUE
+343,28490,19556,Turkey Point: 2018-05-31,34432565,S,NA,65,65,22,excessive burstSlop,TRUE
+343,28490,19556,Old Cut: 2018-05-31,57212885,N,6205,18,18,5,excessive burstSlop,TRUE
+343,28490,19556,Langton: 2018-05-31,35906900,E,574,63,18,3,excessive burstSlop,TRUE
+343,28490,19556,Langton: 2018-05-31,35906900,E,574,63,18,3,hit with high freqSD,TRUE
+343,28490,19556,Waterford_Quarry: 2018-05-31,55689662,W,1858,100,100,56,excessive burstSlop,TRUE
+343,28490,19556,Langton: 2018-05-31,35906902,E,574,63,29,14,excessive burstSlop,TRUE
+343,28490,19556,Waterford_Quarry: 2018-05-31,55689663,E,2884,20,20,10,excessive burstSlop,TRUE
+343,28490,19556,Russell Reid PS: 2018-05-31,54620661,E,326,12,12,2,median freqsd of run > 0.05 kHz,TRUE
+343,28490,19556,Cambridge_RARE: 2018-05-31,41969655,E,35004,33,17,6,median freqsd of run > 0.05 kHz,TRUE
+343,28490,19556,Cambridge_RARE: 2018-05-31,41969656,S,559,53,29,26,excessive burstSlop,TRUE
+343,28490,19556,Cambridge_RARE: 2018-05-31,41969661,E,35004,33,5,4,median freqsd of run > 0.05 kHz,TRUE
+343,28490,19556,Cambridge_RARE: 2018-05-31,41969658,E,35004,33,4,2,median freqsd of run > 0.05 kHz,TRUE
+343,28490,19556,Cambridge_RARE: 2018-05-31,41969663,E,35004,33,5,2,median freqsd of run > 0.05 kHz,TRUE
+343,28490,19556,Cambridge_RARE: 2018-05-31,41969659,S,559,53,3,3,run length of 3,TRUE
+343,28490,19556,Cambridge_RARE: 2018-05-31,41969660,S,559,53,5,4,excessive burstSlop,TRUE
+343,28490,19556,Cambridge_RARE: 2018-05-31,41969664,S,559,53,12,12,excessive burstSlop,TRUE
+343,28490,19556,Luther_Marsh: 2018-05-31,42734074,W,428,30,11,2,SG: <3 consecutive bursts,TRUE
+343,28490,19556,Luther_Marsh: 2018-05-31,42734076,E,804,28,28,16,excessive burstSlop,TRUE
+343,28490,19556,Luther_Marsh: 2018-05-31,42734075,W,428,30,19,16,excessive burstSlop,TRUE
+343,28490,19556,New_Farm: 2018-05-31,44179216,W,270,44,12,5,excessive burstSlop,TRUE
+343,28490,19556,New_Farm: 2018-05-31,44179217,W,270,44,32,9,excessive burstSlop,TRUE
+343,28490,19556,Priceville: 2018-05-31,38126509,E,NA,46,38,28,excessive burstSlop,TRUE
+343,28490,19556,Priceville: 2018-05-31,38126510,N,232,202,10,4,excessive burstSlop,TRUE
+343,28490,19556,Priceville: 2018-05-31,38126511,N,232,202,100,51,excessive burstSlop,TRUE
+343,28490,19556,Priceville: 2018-05-31,38126512,E,NA,46,8,3,excessive burstSlop,TRUE
+343,28490,19556,Priceville: 2018-05-31,38126513,N,232,202,92,28,excessive burstSlop,TRUE
+346,28493,19559,West Port Bruce: 2018-05-26,21465725,S,2920,7,5,1,median freqsd of run > 0.05 kHz,TRUE
+346,28493,19559,West Port Bruce: 2018-05-26,64251809,S,2920,7,5,1,median freqsd of run > 0.05 kHz,TRUE
+346,28493,19559,NANUK: 2018-05-27,45093493,(Missing),NA,38,11,10,excessive burstSlop,TRUE
+346,28493,19559,NANUK: 2018-05-27,45093496,(Missing),NA,38,9,5,excessive burstSlop,TRUE
+350,28497,19563,PresqueIsle: 2018-05-26,55100263,S,921,101,5,2,SG: <3 consecutive bursts,TRUE
+353,28500,19566,Stutchbury: 2018-05-26,58834322,W,821,7,4,1,SG: <3 consecutive bursts,TRUE
+353,28500,19566,Girard: 2018-05-26,41930036,S,101,45,3,3,run length of 3,TRUE
+353,28500,19566,Aylmer: 2018-05-26,55674016,W,17099,35,35,24,High hourly pulse count,TRUE
+353,28500,19566,Aylmer: 2018-05-26,55674017,E,1,13,13,6,hit with high freqSD,TRUE
+355,28502,19654,South Tawas: 2018-05-26,58254164,(Missing),260,64,5,1,Lotek/CTT: <2 consecutive bursts,TRUE
+355,28502,19654,Chase Bridge: 2018-05-26,57709248,(Missing),1704,397,150,25,excessive burstSlop,TRUE
+355,28502,19654,Fletcher: 2018-05-26,61383423,(Missing),88,210,5,1,Lotek/CTT: <2 consecutive bursts,TRUE
+357,28504,19656,St. Helen: 2018-05-26,58177633,(Missing),708,10,4,1,Lotek/CTT: <2 consecutive bursts,TRUE
+357,28504,19656,St. Helen: 2018-05-26,58177635,(Missing),708,10,4,1,Lotek/CTT: <2 consecutive bursts,TRUE
+358,28505,19657,Clare: 2018-05-29,58141371,(Missing),NA,314,64,16,excessive burstSlop,TRUE
+358,28505,19657,Clare: 2018-05-29,58141373,(Missing),NA,314,6,4,excessive burstSlop,TRUE
+358,28505,19657,Clare: 2018-05-29,58141375,(Missing),NA,314,15,15,excessive burstSlop,TRUE
+358,28505,19657,Clare: 2018-05-29,58141377,(Missing),1868,111,4,2,excessive burstSlop,TRUE
+358,28505,19657,Clare: 2018-05-29,58141379,(Missing),1868,111,14,14,excessive burstSlop,TRUE
+358,28505,19657,Clare: 2018-05-29,58141380,(Missing),1868,111,15,9,excessive burstSlop,TRUE
+358,28505,19657,Clare: 2018-05-29,58141381,(Missing),1868,111,5,3,excessive burstSlop,TRUE
+358,28505,19657,Clare: 2018-05-29,58141386,(Missing),1868,111,3,3,run length of 3,TRUE
+358,28505,19657,Clare: 2018-05-29,58141387,(Missing),1868,111,3,3,run length of 3,TRUE
+358,28505,19657,Clare: 2018-05-29,58141388,(Missing),1868,111,29,29,excessive burstSlop,TRUE
+358,28505,19657,Clare: 2018-05-29,58141392,(Missing),1868,111,3,3,run length of 3,TRUE
+358,28505,19657,Clare: 2018-05-29,58141393,(Missing),1868,111,12,3,excessive burstSlop,TRUE
+358,28505,19657,Fletcher: 2018-05-29,61383438,(Missing),652,396,4,2,excessive burstSlop,TRUE
+358,28505,19657,Fletcher: 2018-05-29,61383441,(Missing),652,396,4,3,excessive burstSlop,TRUE
+358,28505,19657,Fletcher: 2018-05-29,61383442,(Missing),652,396,4,3,excessive burstSlop,TRUE
+358,28505,19657,Fletcher: 2018-05-29,61383444,(Missing),652,396,11,6,excessive burstSlop,TRUE
+358,28505,19657,Fletcher: 2018-05-29,61383452,(Missing),652,396,4,2,excessive burstSlop,TRUE
+358,28505,19657,Fletcher: 2018-05-29,61383454,(Missing),652,396,13,6,excessive burstSlop,TRUE
+358,28505,19657,Fletcher: 2018-05-29,61383455,(Missing),652,396,7,6,excessive burstSlop,TRUE
+358,28505,19657,Fletcher: 2018-05-29,61383457,(Missing),652,396,40,21,excessive burstSlop,TRUE
+358,28505,19657,Fletcher: 2018-05-29,61383458,(Missing),652,396,78,12,excessive burstSlop,TRUE
+358,28505,19657,D'Estimauville: 2018-05-29,55298740,S,79901,1576,4,1,median freqsd of run > 0.05 kHz,FALSE
+359,28506,19658,St. Helen: 2018-05-26,58177636,(Missing),60,38,4,1,Lotek/CTT: <2 consecutive bursts,TRUE
+359,28506,19658,Pointe Mouillee: 2018-05-26,59387619,N,NA,17,3,3,run length of 3,TRUE
+359,28506,19658,Whitefish Point: 2018-05-27,58017159,N,7108,20,20,6,median freqsd of run > 0.05 kHz,TRUE
+360,28507,19659,Fort Custer Training Center: 2018-05-29,55100268,E,5,4,4,2,SG: <3 consecutive bursts,TRUE
+360,28507,19659,Lookoff: 2018-10-27,45421351,N,11659,362,4,1,median freqsd of run > 0.05 kHz,FALSE
+360,28507,19659,Lookoff: 2018-12-10,34969885,N,13893,325,4,1,median freqsd of run > 0.05 kHz,FALSE
+361,28508,19660,Snowshoe Fire Tower: 2018-05-26,57995952,N,34,6,6,2,SG: <3 consecutive bursts,TRUE
+361,28508,19660,Gerdau: 2018-05-26,39612681,W,420,99,59,7,hit with high freqSD,TRUE
+361,28508,19660,Gerdau: 2018-05-26,39612682,E,126,53,5,2,SG: <3 consecutive bursts,TRUE
+361,28508,19660,Gerdau: 2018-05-26,39612681,W,420,99,59,7,excessive burstSlop,TRUE
+361,28508,19660,Gerdau: 2018-05-26,39612685,E,126,53,4,2,SG: <3 consecutive bursts,TRUE
+361,28508,19660,Gerdau: 2018-05-26,39612686,W,420,99,14,8,hit with high freqSD,TRUE
+363,28510,19662,Snowshoe Fire Tower: 2018-05-26,57995949,W,23,5,5,1,SG: <3 consecutive bursts,TRUE
+363,28510,19662,Hilliardton: 2018-05-26,55674035,E,13858,9,9,9,High hourly pulse count,TRUE
+363,28510,19662,Moosonee: 2018-05-27,22129970,S,60566,31,3,3,High hourly pulse count,TRUE
+363,28510,19662,Moosonee: 2018-05-27,65004696,S,60566,31,3,3,High hourly pulse count,TRUE
+363,28510,19662,Moosonee: 2018-05-27,22129971,S,60566,31,24,18,High hourly pulse count,TRUE
+363,28510,19662,Moosonee: 2018-05-27,65004697,S,60566,31,24,18,High hourly pulse count,TRUE
+13,33193,21587,Rondeau Provincial Park: 2019-05-29,49745743,S,155,5,5,2,SG: <3 consecutive bursts,TRUE
+13,33193,21587,Rondeau Provincial Park: 2019-05-29,68291027,S,155,5,5,2,SG: <3 consecutive bursts,FALSE
+13,33193,21587,St.Clair NWA: 2019-05-29,59372271,S,NA,46,5,2,SG: <3 consecutive bursts,TRUE
+13,33193,21587,St.Clair NWA: 2019-05-29,75984908,S,NA,46,5,2,SG: <3 consecutive bursts,FALSE
+13,33193,21587,St. Helen: 2019-05-29,58180226,(Missing),72,14,5,1,Lotek/CTT: <2 consecutive bursts,TRUE
+13,33193,21587,St. Helen: 2019-05-29,85606010,(Missing),72,14,5,1,Lotek/CTT: <2 consecutive bursts,FALSE
+13,33193,21587,St. Helen: 2019-05-29,58180227,(Missing),72,14,4,1,Lotek/CTT: <2 consecutive bursts,TRUE
+13,33193,21587,St. Helen: 2019-05-29,85606011,(Missing),72,14,4,1,Lotek/CTT: <2 consecutive bursts,FALSE
+45,33225,21619,Hillman_Marsh: 2019-05-26,58142414,S,279,11,8,4,hit with high freqSD,TRUE
+45,33225,21619,Hillman_Marsh: 2019-05-26,74131295,S,279,11,8,4,hit with high freqSD,FALSE
+45,33225,21619,Hillman_Marsh: 2019-05-26,58142417,S,279,11,3,3,median freqsd of run > 0.05 kHz,TRUE
+45,33225,21619,Hillman_Marsh: 2019-05-26,74131298,S,279,11,3,3,median freqsd of run > 0.05 kHz,FALSE
+45,33225,21619,Pointe Mouillee: 2019-05-26,59392768,N,20,9,6,1,Lotek/CTT: <2 consecutive bursts,TRUE
+45,33225,21619,Pointe Mouillee: 2019-05-26,76008740,N,20,9,6,1,Lotek/CTT: <2 consecutive bursts,FALSE
+46,33226,21620,Long_Point_Tip: 2019-05-23,55111302,N,249,6,6,2,SG: <3 consecutive bursts,TRUE
+46,33226,21620,Long_Point_Tip: 2019-05-23,71369148,N,NA,NA,6,2,SG: <3 consecutive bursts,FALSE
+46,33226,21620,Long_Point_Tip: 2019-05-23,85932690,N,249,6,6,2,SG: <3 consecutive bursts,FALSE
+46,33226,21620,South Tawas: 2019-05-24,58255374,(Missing),199,93,93,11,excessive burstSlop,TRUE
+46,33226,21620,South Tawas: 2019-05-24,78726159,(Missing),199,93,93,11,excessive burstSlop,FALSE
+46,33226,21620,Mack Lake: 2019-05-24,61382651,(Missing),NA,91,91,31,excessive burstSlop,TRUE
+46,33226,21620,Piskwamish: 2019-05-25,54634674,N,81,15,13,12,excessive burstSlop,TRUE
+46,33226,21620,Piskwamish: 2019-05-25,70414003,N,81,15,13,12,excessive burstSlop,FALSE
+46,33226,21620,Piskwamish: 2019-05-25,54634672,E,206,46,22,17,excessive burstSlop,TRUE
+46,33226,21620,Piskwamish: 2019-05-25,54634673,S,189,38,21,17,excessive burstSlop,TRUE
+46,33226,21620,Piskwamish: 2019-05-25,70414001,E,206,46,22,17,excessive burstSlop,FALSE
+46,33226,21620,Piskwamish: 2019-05-25,70414002,S,189,38,21,17,excessive burstSlop,FALSE
+46,33226,21620,Burntpoint: 2019-06-07,58208624,E,1350,50,23,17,excessive burstSlop,TRUE
+46,33226,21620,Burntpoint: 2019-06-07,72183700,E,1350,50,23,17,excessive burstSlop,FALSE
+46,33226,21620,Burntpoint: 2019-06-07,58208628,W,542,37,18,17,excessive burstSlop,TRUE
+46,33226,21620,Burntpoint: 2019-06-07,72183704,W,542,37,18,17,excessive burstSlop,FALSE
+47,33227,21621,West Port Bruce: 2019-05-26,61374276,S,245,10,8,2,SG: <3 consecutive bursts,TRUE
+47,33227,21621,Auzins: 2019-05-26,43307953,E,66,10,10,2,SG: <3 consecutive bursts,TRUE
+47,33227,21621,Auzins: 2019-05-26,65857470,E,66,10,10,2,SG: <3 consecutive bursts,FALSE
+47,33227,21621,Pinery_Provincial_Park: 2019-05-26,42417078,E,292,57,57,35,excessive burstSlop,TRUE
+47,33227,21621,Pinery_Provincial_Park: 2019-05-26,63224079,E,292,57,57,35,excessive burstSlop,TRUE
+47,33227,21621,Pinery_Provincial_Park: 2019-05-26,67698312,E,292,57,57,35,excessive burstSlop,FALSE
+47,33227,21621,Pinery_Provincial_Park: 2019-05-26,42417079,W,460,18,18,16,excessive burstSlop,TRUE
+47,33227,21621,Pinery_Provincial_Park: 2019-05-26,63224080,W,460,18,18,16,excessive burstSlop,TRUE
+47,33227,21621,Pinery_Provincial_Park: 2019-05-26,67698313,W,460,18,18,16,excessive burstSlop,FALSE
+47,33227,21621,Pinery_Provincial_Park: 2019-05-26,42417080,N,727,18,18,18,excessive burstSlop,TRUE
+47,33227,21621,Pinery_Provincial_Park: 2019-05-26,63224081,N,727,18,18,18,excessive burstSlop,TRUE
+47,33227,21621,Pinery_Provincial_Park: 2019-05-26,67698314,N,727,18,18,18,excessive burstSlop,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-09,91811752,(Missing),82954,6960,4,1,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-09,91812488,(Missing),82954,6960,4,1,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-09,91813619,(Missing),144537,7240,4,1,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-10,91816340,(Missing),157458,2881,3,3,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-10,91816776,(Missing),157458,2881,6,4,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-15,91819544,(Missing),16868,5375,12,3,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-15,91820767,(Missing),16868,5375,3,3,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-16,91821031,(Missing),46800,965,4,3,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-16,91821678,(Missing),26230,5000,3,3,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-16,91821925,(Missing),26230,5000,4,2,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-16,91822159,(Missing),26230,5000,4,2,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Grève de Tadoussac: 2019-11-16,91823259,(Missing),26230,5000,5,4,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Port Mouton: 2019-11-16,58189711,E,142164,835,4,1,median freqsd of run > 0.05 kHz,FALSE
+47,33227,21621,Port Mouton: 2019-11-16,74139236,E,142164,834,4,1,median freqsd of run > 0.05 kHz,FALSE
+48,33228,21622,Hopewell Rocks: 2019-08-04,55888949,E,553,211,9,4,median freqsd of run > 0.05 kHz,TRUE
+48,33228,21622,Hopewell Rocks: 2019-08-04,71960815,E,553,211,9,4,median freqsd of run > 0.05 kHz,FALSE
+49,33229,21623,Garden: 2019-05-25,49728788,W,3475,3,3,3,run length of 3,TRUE
+49,33229,21623,Garden: 2019-05-25,90985557,W,3475,3,3,3,run length of 3,FALSE
+49,33229,21623,West Port Bruce: 2019-05-26,61374283,E,30,17,4,2,SG: <3 consecutive bursts,TRUE
+49,33229,21623,Auzins: 2019-05-26,43307950,W,40,59,15,10,excessive burstSlop,TRUE
+49,33229,21623,Auzins: 2019-05-26,65857467,W,40,59,15,10,excessive burstSlop,FALSE
+49,33229,21623,Auzins: 2019-05-26,43307951,W,40,59,7,4,excessive burstSlop,TRUE
+49,33229,21623,Auzins: 2019-05-26,65857468,W,40,59,7,4,excessive burstSlop,FALSE
+49,33229,21623,Pinery_Provincial_Park: 2019-05-26,42417076,N,570,8,8,7,hit with high freqSD,TRUE
+49,33229,21623,Pinery_Provincial_Park: 2019-05-26,63224077,N,570,8,8,7,hit with high freqSD,TRUE
+49,33229,21623,Pinery_Provincial_Park: 2019-05-26,67698310,N,570,8,8,7,hit with high freqSD,FALSE
+50,33230,21624,Cambridge_RARE: 2019-05-27,50766853,S,3,4,4,1,SG: <3 consecutive bursts,TRUE
+50,33230,21624,Cambridge_RARE: 2019-05-27,71926163,S,3,4,4,1,SG: <3 consecutive bursts,FALSE
+50,33230,21624,Earl_Rowe_PP: 2019-05-28,68228952,N,44,6,6,2,SG: <3 consecutive bursts,TRUE
+50,33230,21624,Forks_of_the_Credit: 2019-05-28,55104167,N,414,9,7,5,median freqsd of run > 0.05 kHz,TRUE
+50,33230,21624,Forks_of_the_Credit: 2019-05-28,71367256,N,414,9,7,5,median freqsd of run > 0.05 kHz,FALSE
+50,33230,21624,UWO - SSC: 2019-05-28,57520767,E,266,12,12,5,hit with high freqSD,TRUE
+50,33230,21624,Marthaville_CA: 2019-05-28,55101839,W,469,7,7,2,SG: <3 consecutive bursts,TRUE
+50,33230,21624,Marthaville_CA: 2019-05-28,75983616,W,469,7,7,2,SG: <3 consecutive bursts,FALSE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,58086437,N,NA,51,4,2,SG: <3 consecutive bursts,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,63093445,N,NA,51,4,2,SG: <3 consecutive bursts,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,58086439,N,NA,51,6,2,SG: <3 consecutive bursts,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,63093447,N,NA,51,6,2,SG: <3 consecutive bursts,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,58086440,S,157,21,5,3,excessive burstSlop,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,63093448,S,157,21,5,3,excessive burstSlop,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,58086443,N,NA,51,6,6,excessive burstSlop,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,63093451,N,NA,51,6,6,excessive burstSlop,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,58086442,S,157,21,6,6,excessive burstSlop,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,63093450,S,157,21,6,6,excessive burstSlop,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,58086444,S,157,21,4,2,SG: <3 consecutive bursts,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,58086445,N,NA,51,4,2,SG: <3 consecutive bursts,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,63093452,S,157,21,4,2,SG: <3 consecutive bursts,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,63093453,N,NA,51,4,2,SG: <3 consecutive bursts,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,58086446,S,157,21,6,2,SG: <3 consecutive bursts,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,63093454,S,157,21,6,2,SG: <3 consecutive bursts,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,58086447,N,NA,51,11,10,excessive burstSlop,TRUE
+52,33232,21626,Wheeler Fire Tower: 2019-05-30,63093455,N,NA,51,11,10,excessive burstSlop,TRUE
+52,33232,21626,Short Hills Provincial Park: 2019-05-30,54619211,W,3791,7,7,4,excessive burstSlop,TRUE
+52,33232,21626,Short Hills Provincial Park: 2019-05-30,67706885,W,3791,7,7,4,excessive burstSlop,FALSE
+53,33233,21627,Washiskogau Creek: 2019-05-30,50761276,E,107,71,14,10,excessive burstSlop,TRUE
+53,33233,21627,Washiskogau Creek: 2019-05-30,66990713,E,107,71,14,10,excessive burstSlop,FALSE
+53,33233,21627,Washiskogau Creek: 2019-05-30,50761277,N,NA,41,14,14,excessive burstSlop,TRUE
+53,33233,21627,Washiskogau Creek: 2019-05-30,66990714,N,NA,41,14,14,excessive burstSlop,FALSE
+53,33233,21627,Washiskogau Creek: 2019-05-30,50761278,N,NA,41,6,6,excessive burstSlop,TRUE
+53,33233,21627,Washiskogau Creek: 2019-05-30,66990715,N,NA,41,6,6,excessive burstSlop,FALSE
+53,33233,21627,Washiskogau Creek: 2019-05-30,50761279,N,NA,41,4,3,excessive burstSlop,TRUE
+53,33233,21627,Washiskogau Creek: 2019-05-30,66990716,N,NA,41,4,3,excessive burstSlop,FALSE
+53,33233,21627,Washiskogau Creek: 2019-05-30,50761280,N,NA,41,6,3,excessive burstSlop,TRUE
+53,33233,21627,Washiskogau Creek: 2019-05-30,66990717,N,NA,41,6,3,excessive burstSlop,FALSE
+53,33233,21627,Washiskogau Creek: 2019-05-30,50761281,N,NA,41,4,3,excessive burstSlop,TRUE
+53,33233,21627,Washiskogau Creek: 2019-05-30,66990718,N,NA,41,4,3,excessive burstSlop,FALSE
+53,33233,21627,Washiskogau Creek: 2019-05-30,50761283,N,NA,41,5,5,excessive burstSlop,TRUE
+53,33233,21627,Washiskogau Creek: 2019-05-30,66990720,N,NA,41,5,5,excessive burstSlop,FALSE
+53,33233,21627,Longridge: 2019-05-31,55114698,W,67,37,6,2,SG: <3 consecutive bursts,TRUE
+53,33233,21627,Longridge: 2019-05-31,72070594,W,67,37,6,2,SG: <3 consecutive bursts,FALSE
+59,33239,21633,Auzins: 2019-05-28,43307958,W,195,37,5,2,SG: <3 consecutive bursts,TRUE
+59,33239,21633,Auzins: 2019-05-28,65857475,W,195,37,5,2,SG: <3 consecutive bursts,FALSE
+59,33239,21633,Auzins: 2019-05-28,43307959,W,195,37,8,2,SG: <3 consecutive bursts,TRUE
+59,33239,21633,Auzins: 2019-05-28,65857476,W,195,37,8,2,SG: <3 consecutive bursts,FALSE
+59,33239,21633,Auzins: 2019-05-28,43307960,W,195,37,10,6,excessive burstSlop,TRUE
+59,33239,21633,Auzins: 2019-05-28,65857477,W,195,37,10,6,excessive burstSlop,FALSE
+59,33239,21633,Auzins: 2019-05-28,43307964,W,195,37,9,3,excessive burstSlop,TRUE
+59,33239,21633,Auzins: 2019-05-28,65857481,W,195,37,9,3,excessive burstSlop,FALSE
+59,33239,21633,New_Farm: 2019-05-28,55104108,N,11,7,7,1,SG: <3 consecutive bursts,TRUE
+59,33239,21633,New_Farm: 2019-05-28,71926092,N,11,7,7,1,SG: <3 consecutive bursts,FALSE
+59,33239,21633,Lookoff: 2019-11-01,86483048,N,NA,975,3,3,run length of 3,FALSE
+59,33239,21633,Lookoff: 2019-11-13,61578788,N,NA,488,4,1,SG: <3 consecutive bursts,FALSE
+78,33873,21945,Piskwamish: 2019-05-25,54634677,(Missing),34,3,3,3,run length of 3,TRUE
+80,33875,21947,Wheeler Fire Tower: 2019-05-23,58086430,W,6871,19,5,2,SG: <3 consecutive bursts,TRUE
+80,33875,21947,Wheeler Fire Tower: 2019-05-23,63093438,W,6871,19,5,2,SG: <3 consecutive bursts,TRUE
+80,33875,21947,Wheeler Fire Tower: 2019-05-23,58086431,N,NA,6,4,2,SG: <3 consecutive bursts,TRUE
+80,33875,21947,Wheeler Fire Tower: 2019-05-23,63093439,N,NA,6,4,2,SG: <3 consecutive bursts,TRUE
+80,33875,21947,Brighton: 2019-05-23,50775365,E,774,8,8,6,excessive burstSlop,TRUE
+80,33875,21947,Brighton: 2019-05-23,50775366,W,116,6,6,4,excessive burstSlop,TRUE
+80,33875,21947,Brighton: 2019-05-23,50775367,S,NA,12,7,6,excessive burstSlop,TRUE
+80,33875,21947,Brighton: 2019-05-23,50775368,S,NA,12,5,4,excessive burstSlop,TRUE
+80,33875,21947,Brighton: 2019-05-23,50775369,W,383,11,11,4,median freqsd of run > 0.05 kHz,TRUE
+80,33875,21947,Brechin: 2019-05-24,61735848,S,114,16,10,5,excessive burstSlop,TRUE
+87,33882,21954,Winous Point 2016: 2019-05-26,59420994,E,100,24,8,1,Lotek/CTT: <2 consecutive bursts,TRUE
+87,33882,21954,Clare: 2019-05-26,58141446,(Missing),520,82,82,12,excessive burstSlop,TRUE
+88,33883,21955,Little Talbot: 2019-07-11,44420384,(Missing),8708,943,7,1,Lotek/CTT: <2 consecutive bursts,FALSE
+88,33883,21955,Little Talbot: 2019-07-11,61962739,(Missing),8708,939,7,1,Lotek/CTT: <2 consecutive bursts,FALSE
+88,33883,21955,Pipe Creek South: 2019-07-15,59373655,(Missing),NA,22,4,1,Lotek/CTT: <2 consecutive bursts,FALSE
+88,33883,21955,Chaufferie: 2019-08-02,54937474,W,10083,586,4,2,median freqsd of run > 0.05 kHz,FALSE
+88,33883,21955,Little Talbot: 2019-08-12,61971562,(Missing),3080,1045,4,1,flagged by motusFilter,FALSE
+88,33883,21955,Little Talbot: 2019-08-19,44431362,(Missing),2076,505,4,1,flagged by motusFilter,FALSE
+88,33883,21955,Little Talbot: 2019-08-19,61973884,(Missing),2076,518,4,1,flagged by motusFilter,FALSE
+358,34134,22119,Clifton: 2019-07-20,51106794,W,1,9469,4,1,median freqsd of run > 0.05 kHz,FALSE
+358,34134,22119,Clifton: 2019-07-20,72817174,W,1,9469,4,1,median freqsd of run > 0.05 kHz,FALSE
+358,34134,22119,Clifton: 2019-07-20,51106793,(Missing),94731,9420,4,1,High hourly pulse count,FALSE
+358,34134,22119,Clifton: 2019-07-20,72817173,(Missing),94731,9420,4,1,High hourly pulse count,FALSE
+358,34134,22119,Clifton: 2019-07-21,51112840,(Missing),92899,12552,4,1,High hourly pulse count,FALSE
+358,34134,22119,Clifton: 2019-07-21,72823214,(Missing),92899,12551,4,1,High hourly pulse count,FALSE
+358,34134,22119,Clifton: 2019-07-21,51112841,N,99698,14011,4,1,High hourly pulse count,FALSE
+358,34134,22119,Clifton: 2019-07-21,72823215,N,99698,14011,4,1,High hourly pulse count,FALSE
+358,34134,22119,Clifton: 2019-07-21,51112842,W,2,13145,4,1,SG: <3 consecutive bursts,FALSE
+358,34134,22119,Clifton: 2019-07-21,72823216,W,2,13145,4,1,SG: <3 consecutive bursts,FALSE
+358,34134,22119,Clifton: 2019-07-23,51191422,(Missing),94826,8235,4,1,High hourly pulse count,FALSE
+358,34134,22119,Clifton: 2019-07-23,72901769,(Missing),94826,8235,4,1,High hourly pulse count,FALSE
+359,34135,22120,Clifton: 2019-08-14,51422712,N,38701,3597,4,1,High hourly pulse count,FALSE
+359,34135,22120,Clifton: 2019-08-14,73138394,N,38701,3595,4,1,High hourly pulse count,FALSE
+359,34135,22120,Clifton: 2019-08-14,51422711,W,11295,2716,4,1,SG: <3 consecutive bursts,FALSE
+359,34135,22120,Clifton: 2019-08-14,73138393,W,11295,2714,4,1,SG: <3 consecutive bursts,FALSE
+359,34135,22120,Clifton: 2019-09-29,51497374,N,10438,3027,4,1,SG: <3 consecutive bursts,FALSE
+359,34135,22120,Clifton: 2019-09-29,73218053,N,10438,3025,4,1,SG: <3 consecutive bursts,FALSE
+359,34135,22120,Clifton: 2019-09-29,51497376,W,8072,1993,4,1,SG: <3 consecutive bursts,FALSE
+359,34135,22120,Clifton: 2019-09-29,73218055,W,8072,1993,4,1,SG: <3 consecutive bursts,FALSE
+359,34135,22120,Clifton: 2019-09-29,51497375,(Missing),6836,2180,4,1,SG: <3 consecutive bursts,FALSE
+359,34135,22120,Clifton: 2019-09-29,73218054,(Missing),6836,2178,4,1,SG: <3 consecutive bursts,FALSE
+360,34136,22121,"Cape Romain NWR, SC (Bulls Island): 2019-06-02",39587795,W,336,5,5,2,SG: <3 consecutive bursts,TRUE
+360,34136,22121,"Cape Romain NWR, SC (Bulls Island): 2019-06-02",63219160,W,336,5,5,2,SG: <3 consecutive bursts,TRUE
+360,34136,22121,Lookoff: 2019-11-05,61563856,N,NA,826,4,2,median freqsd of run > 0.05 kHz,FALSE
+360,34136,22121,Lookoff: 2019-11-05,86488059,N,NA,826,4,2,median freqsd of run > 0.05 kHz,FALSE
+360,34136,22121,Grève de Tadoussac: 2019-11-15,91819273,(Missing),16868,5375,3,3,median freqsd of run > 0.05 kHz,FALSE
+360,34136,22121,Grève de Tadoussac: 2019-11-15,91819570,(Missing),16868,5375,6,2,median freqsd of run > 0.05 kHz,FALSE
+360,34136,22121,Lookoff: 2019-11-20,61594341,N,NA,1345,4,1,median freqsd of run > 0.05 kHz,FALSE
+360,34136,22121,Lookoff: 2019-11-20,86518601,N,NA,1325,5,1,median freqsd of run > 0.05 kHz,FALSE
+360,34136,22121,Lookoff: 2019-11-21,61600869,N,NA,1395,5,2,median freqsd of run > 0.05 kHz,FALSE
+361,34137,22122,Pisgah Astronomical Research Institute: 2019-05-23,60697542,E,1642,37,34,4,hit with high freqSD,TRUE
+361,34137,22122,Pisgah Astronomical Research Institute: 2019-05-23,66990525,E,1642,37,34,4,hit with high freqSD,FALSE
+361,34137,22122,Pisgah Astronomical Research Institute: 2019-05-23,76130151,E,1642,37,34,4,hit with high freqSD,FALSE
+361,34137,22122,Turkey Point: 2019-05-23,60336682,S,20245,17,9,9,High hourly pulse count,TRUE
+361,34137,22122,Turkey Point: 2019-05-23,85940896,S,20245,17,9,9,High hourly pulse count,FALSE
+362,34138,22123,West Port Bruce: 2019-05-26,61374279,W,295,36,5,1,SG: <3 consecutive bursts,FALSE
+362,34138,22123,Clifton: 2019-07-23,51191427,N,100669,8453,4,1,High hourly pulse count,FALSE
+362,34138,22123,Clifton: 2019-07-23,72901774,N,100669,8454,4,1,High hourly pulse count,FALSE
+365,34141,22126,Pisgah Astronomical Research Institute: 2019-05-23,60697541,W,135,8,4,2,SG: <3 consecutive bursts,TRUE
+365,34141,22126,Pisgah Astronomical Research Institute: 2019-05-23,66990524,W,135,8,4,2,SG: <3 consecutive bursts,FALSE
+365,34141,22126,Pisgah Astronomical Research Institute: 2019-05-23,76130150,W,135,8,4,2,SG: <3 consecutive bursts,FALSE
+365,34141,22126,Hillman_Marsh: 2019-05-24,58142406,E,140,3,3,3,run length of 3,TRUE
+365,34141,22126,Hillman_Marsh: 2019-05-24,74131287,E,140,3,3,3,run length of 3,FALSE
+365,34141,22126,Hillman_Marsh: 2019-05-24,58142410,E,20751,10,10,10,High hourly pulse count,TRUE
+365,34141,22126,Hillman_Marsh: 2019-05-24,74131291,E,20751,10,10,10,High hourly pulse count,FALSE
+365,34141,22126,Clifton: 2019-07-20,51106800,N,3,10886,4,1,SG: <3 consecutive bursts,FALSE
+365,34141,22126,Clifton: 2019-07-20,72817180,N,3,10881,4,1,SG: <3 consecutive bursts,FALSE
+365,34141,22126,Clifton: 2019-07-21,51112875,(Missing),92899,12552,4,1,High hourly pulse count,FALSE
+365,34141,22126,Clifton: 2019-07-21,72823249,(Missing),92899,12551,4,1,High hourly pulse count,FALSE
+365,34141,22126,"Mackay Island NWR, NC: 2019-10-28",61128158,E,10941,309,7,2,median freqsd of run > 0.05 kHz,FALSE
+365,34141,22126,"Mackay Island NWR, NC: 2019-10-28",67165962,E,10941,309,7,2,median freqsd of run > 0.05 kHz,FALSE
+365,34141,22126,"Mackay Island NWR, NC: 2019-10-28",76263355,E,10941,309,7,2,median freqsd of run > 0.05 kHz,FALSE
+366,34142,22127,Clifton: 2019-07-21,51112849,(Missing),92899,12552,4,1,High hourly pulse count,FALSE
+366,34142,22127,Clifton: 2019-07-21,72823223,(Missing),92899,12551,4,1,High hourly pulse count,FALSE
+366,34142,22127,Clifton: 2019-07-21,51112850,N,99698,14011,4,1,High hourly pulse count,FALSE
+366,34142,22127,Clifton: 2019-07-21,51112851,W,2,13145,4,1,SG: <3 consecutive bursts,FALSE
+366,34142,22127,Clifton: 2019-07-21,72823224,N,99698,14011,4,1,High hourly pulse count,FALSE
+366,34142,22127,Clifton: 2019-07-21,72823225,W,2,13145,4,1,SG: <3 consecutive bursts,FALSE
+368,34144,22129,Oak hammock marsh: 2019-05-26,40597872,W,332,50,3,3,run length of 3,TRUE
+368,34144,22129,Oak hammock marsh: 2019-05-26,64439139,W,332,50,3,3,run length of 3,TRUE
+369,34145,22130,Grève de Tadoussac: 2019-11-09,91807918,(Missing),136737,1956,4,1,median freqsd of run > 0.05 kHz,FALSE
+369,34145,22130,Grève de Tadoussac: 2019-11-09,91810065,(Missing),82954,6960,4,2,median freqsd of run > 0.05 kHz,FALSE
+369,34145,22130,Grève de Tadoussac: 2019-11-10,91816919,(Missing),157458,2881,4,4,median freqsd of run > 0.05 kHz,FALSE
+369,34145,22130,Grève de Tadoussac: 2019-11-16,91821610,(Missing),26230,5000,8,4,median freqsd of run > 0.05 kHz,FALSE
+370,34146,22131,"Mackay Island NWR, NC: 2019-10-27",61127830,N,11554,2696,5,5,median freqsd of run > 0.05 kHz,FALSE
+370,34146,22131,"Mackay Island NWR, NC: 2019-10-27",67165634,N,11554,2696,5,5,median freqsd of run > 0.05 kHz,FALSE
+370,34146,22131,"Mackay Island NWR, NC: 2019-10-27",76263027,N,11554,2696,5,5,median freqsd of run > 0.05 kHz,FALSE
+371,34147,22132,Brighton: 2019-05-31,50775379,S,NA,3,3,3,run length of 3,TRUE
+371,34147,22132,Brighton: 2019-05-31,75310007,S,NA,3,3,3,run length of 3,FALSE
+371,34147,22132,Hilliardton: 2019-05-31,42734753,N,22545,22,22,6,High hourly pulse count,TRUE
+371,34147,22132,Hilliardton: 2019-05-31,67705479,N,22545,22,22,6,High hourly pulse count,FALSE
+371,34147,22132,Hilliardton: 2019-05-31,42734754,E,49008,53,53,31,High hourly pulse count,TRUE
+371,34147,22132,Hilliardton: 2019-05-31,67705480,E,49008,53,53,31,High hourly pulse count,FALSE
