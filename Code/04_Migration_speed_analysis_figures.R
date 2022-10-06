@@ -2,7 +2,7 @@ source("Code/Functions/create_path_speed_map.R")
 source("Code/Functions/plot_gspd_twnd_cor.R")
 
 rutu_speeds <- readRDS("Data/Derived/rutu_speed_calculations.rds")
-rutu_speeds_redux <- readr::read_csv("Data/Derived/rutu_speed_checks2.csv") %>%
+rutu_speeds_redux <- readr::read_csv("Data/Derived/rutu_speed_checks.csv") %>%
   filter(keep) 
 
 # Number of flights
