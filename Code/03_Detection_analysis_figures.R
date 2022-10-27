@@ -20,9 +20,9 @@ gl <- st_read("Resources/geodata/greatlakes_subbasins.shp", quiet = TRUE) %>%
 db <- st_read("Resources/geodata/delaware-bay_HUC02040204.shp", quiet = TRUE) %>%
   st_buffer(30000) %>% summarize() %>% st_transform(st_crs(gl))
 backdrop <- rbind(gl, db)
-backdrop_labs <- tibble(lat = c(38.4, 49.5), 
-                        lon = c(-71.25, -91.1), 
-                        label = c("Delaware Bay", "Great Lakes\nBasin")) %>%
+backdrop_labs <- tibble(lat = c(38, 49.5, 58.5, 53.75), 
+                        lon = c(-71.25, -91.1, -85, -77), 
+                        label = c("Delaware Bay", "Great Lakes\nBasin", "Hudson Bay", "James Bay")) %>%
   st_as_sf(coords = c("lon", "lat"), crs = 4326)
 p <- create_path_map(rutu_det, map_crs = map_crs, backdrop_sf = backdrop, backdrop_label_sf = backdrop_labs)
 ggsave("Output/rutu_path_map.png", dpi = 600, height = 8.6, width = 6.8)
