@@ -10,7 +10,6 @@ Authors (affiliation):
 
 To run the analysis:
 
-1. Fork or download this repository
-  - all code and data is available in this repository
+1. Fork or download this repository; all code and data is available in this repository
 2. Open [R](http://www.r-project.org) on a computer with internet access
 3. The code to process, analyze, and generate figures is located in the `Code` directory. Begin with `00_Process_RUTU_Motus_data.R` and proceed sequentially through other similarly-named files. For convenience, all generated figures are provided in the `Output` directory.
