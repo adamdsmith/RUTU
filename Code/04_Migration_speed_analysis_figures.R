@@ -40,8 +40,7 @@ twnd_fig <- plot_gpsd_twnd_cor(rutu_speeds_redux)
 all <- (gspd_fig / twnd_fig) | p_sm
 all + plot_annotation(tag_levels = "A") & 
   theme(plot.tag = element_text(size = 22))
-ggsave("Output/rutu_speed_fig.png", dpi = 600, height = 7, width = 10)
+ggsave("Output/Fig6_rutu_speed_fig.png", dpi = 600, height = 7, width = 10)
 
-# ggsave("Output/rutu_path_speed_map.pdf", height = 8.6, width = 5.9)
-
+# Tailwind support summary
 sum(rutu_speeds_redux$tailwind > 0) / nrow(rutu_speeds_redux)

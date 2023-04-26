@@ -107,4 +107,4 @@ dep_fig_wt_spr <- ggplot(dep_all_wt, aes(doy)) +
 all <- dep_fig_precise | dep_fig_wt_spr
 all + plot_annotation(tag_levels = "A") & 
   theme(plot.tag = element_text(size = 22))
-ggsave("Output/rutu_departures.png", dpi = 600, height = 5, width = 10)
+ggsave("Output/Fig2_rutu_departures.png", dpi = 600, height = 5, width = 10)

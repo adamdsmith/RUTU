@@ -25,8 +25,8 @@ backdrop_labs <- tibble(lat = c(38, 49.5, 58.5, 53.75),
                         label = c("Delaware Bay", "Great Lakes\nBasin", "Hudson Bay", "James Bay")) %>%
   st_as_sf(coords = c("lon", "lat"), crs = 4326)
 p <- create_path_map(rutu_det, map_crs = map_crs, backdrop_sf = backdrop, backdrop_label_sf = backdrop_labs)
-ggsave("Output/rutu_path_map.png", dpi = 600, height = 8.6, width = 6.8)
-ggsave("Output/rutu_path_map.pdf", height = 8.6, width = 6.8)
+ggsave("Output/Fig1_rutu_path_map.png", dpi = 600, height = 8.6, width = 6.8)
+ggsave("Output/Fig1_rutu_path_map.pdf", height = 8.6, width = 6.8)
 
 rutu_det_sf <- mutate(rutu_det,
                       lat = recvDeployLat,
@@ -49,14 +49,7 @@ gl_sum_p <- plot_first_gl_histogram(rutu_gl_summary)
 all <- gl_dur_p | gl_sum_p
 all + plot_annotation(tag_levels = "A") & 
   theme(plot.tag = element_text(size = 22))
-ggsave("Output/rutu_gl_passage.png", dpi = 600, height = 5, width = 10)
-
-# Days between tag deployment and first GL detection
-til_gl <- filter(rutu_gl_summary, detection == "First detection") %>%
-  mutate(days_since_deploy = doy - yday(tagDeployStart)) %>%
-  pull(days_since_deploy)
-median(til_gl)
-range(til_gl)
+ggsave("Output/Fig5_rutu_gl_passage.png", dpi = 600, height = 5, width = 10)
 
 # Elapsed time between last GL detection and first James/Hudson Bay detection
 last_gl <- rutu_det_gl %>%
@@ -79,9 +72,9 @@ range(rutu_gl_breed$tdiff)
 
 # Correlation between longitude of first detection in GL Basin and E-W wind component
 p <- plot_gl_wind_cor(rutu_det_gl)
-ggsave("Output/detection_location_uwind_correlation.png", dpi = 600, height = 5, width = 5)
+ggsave("Output/Fig4_detection_location_uwind_correlation.png", dpi = 600, height = 5, width = 5)
 
 p <- create_gl_detection_map(rutu_det_gl, gl_sf = gl, map_crs = map_crs, stop_buffer = 40)
-ggsave("Output/rutu_gl_detection_map.png", dpi = 600, height = 5.3, width = 6.8)
-ggsave("Output/rutu_gl_detection_map.pdf", height = 5.3, width = 6.8)
+ggsave("Output/Fig3_rutu_gl_detection_map.png", dpi = 600, height = 5.3, width = 6.8)
+ggsave("Output/Fig3_rutu_gl_detection_map.pdf", height = 5.3, width = 6.8)
 
