@@ -11,5 +11,6 @@ Authors (affiliation):
 To run the analysis:
 
 1. Fork or download this repository; all code and data is available in this repository
-2. Open [R](http://www.r-project.org) on a computer with internet access
-3. The code to process, analyze, and generate figures is located in the `Code` directory. Begin with `00_Process_RUTU_Motus_data.R` and proceed sequentially through other similarly-named files. For convenience, all generated figures are provided in the `Output` directory.
+2. If necessary, extract the zipped repository to the desired location on your local machine.
+3. Open the `RUTU.Rproj` file in [RStudio](https://posit.co/products/open-source/rstudio/) on a computer with internet access; RStudio requires [R](http://www.r-project.org) to be installed. This opens the RStudio project associated with the data, code, and analysis.
+4. All of the code necessary to process, analyze, and generate figures is located in the `Code` directory. Open and begin by running the code within `00_Process_RUTU_Motus_data.R`. Proceed sequentially through other similarly-named files. If interested only in the figures, these are provided as a convenience in the `Output` directory.
