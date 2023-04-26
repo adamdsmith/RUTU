@@ -1,9 +1,12 @@
 if (!requireNamespace("pacman", quietly = TRUE)) install.packages("pacman", quiet = TRUE)
 if (!requireNamespace("remotes", quietly = TRUE)) install.packages("remotes", quiet = TRUE)
 if (!requireNamespace("nrsmisc", quietly = TRUE)) remotes::install_github("adamdsmith/nrsmisc")
-# Need development version of ggrepel
+if (!requireNamespace("motusnrsmisc", quietly = TRUE)) 
+  install.packages("motus", repos = c(birdscanada = 'https://birdscanada.r-universe.dev',
+                                      CRAN = 'https://cloud.r-project.org'))
+# Need newer version of ggrepel
 if (compareVersion("0.9.0", as.character(packageVersion("ggrepel"))) > 0)
-  remotes::install_github("slowkow/ggrepel")
+  install.packages("ggrepel", quiet = TRUE)
 # If you get an error during this installation, restart R and run 
 # `Sys.setenv(R_REMOTES_NO_ERRORS_FROM_WARNINGS = "true")` prior to the install attempt
 
